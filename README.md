@@ -2,7 +2,7 @@
 
 # ⚖️ Llama-3.1-8B Egyptian Legal Chatbot (Fine-Tuning & MLOps)
 
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/Ahmed792/lora_model)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/Ahmed792/llama-3.1-8b-egyptian-legal)
 
 
 An end-to-end Large Language Model (LLM) fine-tuning pipeline that adapts **Meta-Llama-3.1-8B-Instruct** to understand complex Egyptian legal structures and respond naturally in the **Egyptian Arabic dialect**. 
