@@ -6,6 +6,9 @@ An end-to-end Large Language Model (LLM) fine-tuning pipeline that adapts **Meta
 
 This project utilizes memory-efficient optimization techniques via **Unsloth** and **LoRA**, with real-time training tracking managed through **Weights & Biases (W&B)**.
 
+<img width="1154" height="184" alt="example" src="https://github.com/user-attachments/assets/4aee1a9a-d287-419d-8eb4-a7a3014bb802" />
+
+
 ---
 
 ## 🚀 Key Features
@@ -26,10 +29,10 @@ The training process was rigorously monitored using W&B to ensure convergence an
 > 💡 *Tip: Replace the placeholders below with your actual W&B chart and chat UI screenshots saved in your images folder!*
 
 ### Training Loss Convergence:
-![Training Loss](images/loss_chart.png)
+<img width="1927" height="817" alt="train" src="https://github.com/user-attachments/assets/f5ec0d9d-dcf4-42d9-a544-3037ec4aa4aa" />
 
 ### GPU Hardware Metrics:
-![GPU Performance](images/system_chart.png)
+<img width="1924" height="871" alt="System" src="https://github.com/user-attachments/assets/c268c2e0-c7e4-45ae-a06f-6e7d9da3218a" />
 
 ---
 
